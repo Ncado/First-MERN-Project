@@ -1,6 +1,6 @@
 {
 	"port":5000,
 	"baseUrl": "http://localhost:5000",
-	"jwtSecret": "SECRET",
-	"mongoUri": "mongodb+srv://Ncado:paralaxjs@cluster0.dma5i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+	"jwtSecret": "vladilen youtube mern",
+	"mongoUri": ""
 } 
